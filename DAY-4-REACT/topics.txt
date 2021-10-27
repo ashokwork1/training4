@@ -1,0 +1,19 @@
+Unit Testing with jest and Enzyme	
+
+1. Understanding Testing with Jest
+2. Setting up unit testing data
+3. Jest Globals
+4. Watching for changes
+5. Setup and teardown
+6. Async Testing
+7. Async Demo 
+
+1. Lazy Loading 
+2. Implementing  lazy loading of components in react.
+3. Profiling
+4. Considering the build optimizations
+5. Reconciliation
+
+Avoid XSS and SQL Injection Attack Techniques
+
+Deployment 
