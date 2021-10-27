@@ -1,0 +1,41 @@
+React Foundation	
+
+6. JSX fundamentals
+7. Data binding
+8. Dealing with loops
+9. Event Handling
+10. Styling in JSX
+11. State vs Props
+12. State based components 
+12.2 Pure components, Functional Components
+13. Updating State
+14. Component Life Cycle
+15. Event Handling
+16. Component to Component Communication
+17. Understanding Higher Order component Architecture
+18. Pros and Cons of  state
+19. Working with ""fetch"" and Axios for Api Calls
+20. Building Stateless components
+
+
+
+Advanced React and UI handling Technquies	
+1. Hooks
+2. Introducing Hooks
+3. Hooks at a Glance
+4. Using the State Hook
+5. Using the Effect Hook
+6. Rules of Hooks
+7. Building Your Own Hooks
+  1. Context Api
+  2. When to Use Context
+  3. Context Api
+  4. Provider
+  5. Consumer
+  6. Dynamic Context
+7. Passing and Accessing Data by using context in the App
+  1. Refs and Fragments
+  2. Understanding the concept of Refs
+  3. Forwarding refs in higher-order components
+  4. Understanding Keyed fragments
+  5. Developing Modal popups using fragments
