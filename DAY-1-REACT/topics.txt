@@ -1,0 +1,37 @@
+ES6 Fundamentals	
+
+1. ES6 Syntax
+2. Spread Operator
+3. Rest Parameter
+4. Variables
+5. Operators
+6. Loops
+7. Strings
+8. String Literal
+9. Objects
+10. Object destructuring
+11. Classes
+12. Arrays
+13. Array Methods
+14. Maps & Sets
+15. Modules
+16. Promises
+
+
+Node & Express 	
+1. Architecture of Node
+2. Node fundamentals
+3. Call Backs
+4. Usage of modules
+5. Built In and Custom Modules
+6. Working with Express
+7. Express Router and Api
+
+React Foundation	
+1. Introduction to SPA
+2. Angular Vs React
+3. Setting up React Project 
+4. Undestanding React Architecture
+5. Component Fundamentals
+6. JSX fundamentals
+7. Data binding
