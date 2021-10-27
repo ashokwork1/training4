@@ -1,0 +1,35 @@
+PRE-REQUISITES	
+1. Core java
+2. Basic HTML/ CSS
+
+Core Java Refresher	
+ 1. Pre - assessment [MCQ - 15 questions ]
+ 2. OOPS Concepts
+ 3. Collection API
+ 4. Annotations
+ 
+Introduction and Pre-assesment	
+Focus will be on best practices. 
+ 1. Introduction to Spring
+ 2. Need for Spring
+ 3. Spring Pillars and Overview
+  - Dependency Injection
+  - AOP(Aspect Oriented Programming)
+ 4. Spring Architecture
+ 5. Introduction to Maven 
+ 6. Spring maven configuration
+ 7. Introduction to Logging
+
+Spring Core (Beans, IOC, DI, etc)	
+XML Approach will be an overview and focus will on annotations based Configuration
+ 
+ 1. Spring Configuration file - XML
+ 2. Dependency Injection -
+  - setter
+  - constructor
+ 3. Spring Auto wiring
+  - By type
+  - By Name
+  - By Constructor
+  - By Autodetect
+ 
