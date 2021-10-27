@@ -1,0 +1,24 @@
+HTML	
+1. Introduction to web and basic HTML tags
+2. Structuring content using HTML tags
+3. Working with forms
+4. Deeper understanding of client-server communication"	
+
+
+CSS	
+1. Introduction to CSS, CSS inheritance and various selectors
+2. The cascade, specificity and style resolution
+3. Important CSS properties
+4. Handling layouts, RWD
+5. Hands on: Payment Systems"
+
+
+Javascript	
+1. Variables, Scopes, Data types, Control flow and Functions
+2. Operators, Control Flow & Functions
+3. Functions (Continued) & Objects
+4. Built-in Objects and functions
+5. Exception handling & Browser Objects
+6. DOM and Event Handling"	
+
+Post Assesment		
