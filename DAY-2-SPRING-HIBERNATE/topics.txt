@@ -1,0 +1,34 @@
+Spring Core (Beans, IOC, DI, etc)	
+4. Spring Bean 
+  - lifecycle
+  - Bean Scopes
+  - Collection Bean
+ 5.Java based configuration
+  - @Bean
+  - @Autowired
+  - @Value
+  - @Qualifier
+  - @ProperySources
+
+Spring AOP	
+AOP Overview
+1.What is Aspect
+ 2.Pointcut
+ 3. Advice
+  - Before
+  - After
+  - AfterReturning
+  - AfterThrowing
+  - Around
+ 4. JoinPoints
+ 5. Weaving
+ 6. Pointcut expression
+ 7. Proxy
+ MCQ
+
+Spring JDBC	
+1. Need for JdbcTemplate 
+ 2.Spring JDBC configuration
+ 3. Executing Statements
+ 4. Executing Queries
+ 5. Row Mapper
