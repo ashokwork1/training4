@@ -1,0 +1,38 @@
+Advanced React and UI handling Technquies 
+
+1. Exception Handling
+2. Developing error handling module across the application
+3. Handling Exceptions in react 
+4. Understanding the error Boundaries
+
+1. Forms 
+2. Validation forms
+3. Usage of Formic
+4. Usage of PropTypes
+
+
+
+Working with DataStores, Middle Ware and Routing	
+
+1. Redux architecture
+2. Actions
+3. Reducers
+4. Store
+5. Integrating Redux with the Application
+6. UseSelector
+7. Updating Store
+8. Introduction to Middleware
+9. Redux Thunk
+10. Redux Saga
+11. Difference between the two async libraries
+
+12. React Routing
+
+13. Redux-
+      1. Defining React Routes
+      2. Sending Parameters via Routes
+      3. Building a Single Page App with React-redux routing"
+
+1. Throttling and Debouncing Event Action in JavaScript
+2. Redux Performance considerations
+3. Webworkers"
